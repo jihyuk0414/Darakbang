@@ -1,8 +1,4 @@
-# Skill Stack
-- Spring Boot
-- Spring Data JPA
-- WEBFLUX
-- FeignClient
-- MySQL
-- Docker
-- Swagger
+# 임지혁 작업 브랜치
+
+결제 시스템 구축, 상품 부 구현 등 다양한 작업을 진행한 브랜치입니다.
+해당 브랜치에서 작업 후 PR을 보내는 형태로 작업을 진행했습니다.
